@@ -17,7 +17,7 @@ Este projeto tem como foco a análise de imagens biomédicas, especificamente ex
 ## Como Usar
 1. Clone o repositório.
    ```bash
-   git clone https://github.com/larissa-maciel/Biomedical_Image_Analysis_AlgebraLinear.git
+   https://github.com/larissa-maciel/Biomedical_Image_Analysis_AlgebraLinear.git
 
 2. Execute o notebook Jupyter localmente ou no Google Colab.
 
