@@ -21,6 +21,10 @@ Este projeto tem como foco a análise de imagens biomédicas, especificamente ex
 
 2. Execute o notebook Jupyter localmente ou no Google Colab.
 
+3. Carregue o conjunto de dados e referencie o caminho correto no notebook.
+
+4. Execute todas as células do notebook para visualizar e gerar as análises.
+
 ## Destaques
 
 - Segmentação automática de estruturas cerebrais, como ventrículos e massa cinzenta.
